@@ -14,3 +14,5 @@
 npm install
 npm run build
 ```
+
+https://www.jsdelivr.com/?docs=gh
